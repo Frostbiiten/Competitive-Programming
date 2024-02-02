@@ -1,0 +1,1 @@
+{"name":"Local: s3trol","url":"c:\\Users\\Frost\\Code\\cp new\\ccc\\2017\\s3trol.cpp","tests":[{"id":1699140570107,"input":"4\n1 2 3 4","output":"2 1"},{"id":1699140583653,"input":"5\n1 10 100 1000 2000","output":"1 10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Frost\\Code\\cp new\\ccc\\2017\\s3trol.cpp","group":"local","local":true}
